@@ -33,7 +33,7 @@ app.get("/", (req, res) => {
                     <h1>Ingeniería de Software</h1>
                     <h2>Serie II</h2>
                     <p><strong>Nombre del estudiante:</strong></p>
-                    <h3>Jorge Medina</h3>
+                    <h3>Jorge Ortiz Medina</h3>
                 </div>
             </body>
         </html>
